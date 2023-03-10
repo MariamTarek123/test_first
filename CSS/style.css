@@ -1,0 +1,47 @@
+
+h2{
+color:rgb(255,165,0);
+}
+
+h3{
+  font-size:16px;
+}
+
+p{
+color:rgb(128,128,0);
+font-family: Arial, Helvetica, sans-serif
+}
+
+ol{color:rgb(128,128,0);}
+
+img {
+ display flex;
+ padding: automatically;
+ margin: 0;
+ border-radius:130px;
+ opacity: 0.5;}
+
+ ul{
+   background: #ff9999;
+padding: 20px;
+list-style-type: square;
+font-size: 1em;
+display:inline-table;
+
+ }
+ ul li {
+  background: #ffe5e5;
+  color: darkred;
+  padding: 5px;
+  margin-left: 35px;
+}
+
+#top{
+ background-color: blue;
+}
+#middle{
+  background-color: yellow;
+}
+#last{
+  background-color: purple;
+}
